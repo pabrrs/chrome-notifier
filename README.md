@@ -1,4 +1,4 @@
-# PagerDuty Chrome Notifier
+# PagerDuty Firefox Notifier [WIP]
 
 A Google Chrome extension to show PagerDuty notifications using Chrome's notification API. The notification will display some information about the alert, along with buttons to acknowledge and resolve it right from the notification!
 
